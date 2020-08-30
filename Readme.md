@@ -107,6 +107,7 @@ mvn clean test -Denv=QA
 Once all the test are executed results can be generated in [test-output](https://github.com/vinaygupta2050/iceyeApiTestSuite/tree/master/test-output/Report)
 
 ![Dashboard](https://github.com/vinaygupta2050/iceyeApiTestSuite/tree/master/images/iceyeTestSuite.gif)
+
 ## Author
 
 * **Vinaykumar Gupta** - [LinkedIn](https://in.linkedin.com/in/vinaygupta2050)
